@@ -1,3 +1,8 @@
+# TODO LIST
+### It has edit and delete functionality in it. And you can add items in the list as well. With check list you can delete all the items.
+![Screenshot from 2022-11-11 00-53-04](https://user-images.githubusercontent.com/87900165/201187660-412dcfa4-42e8-441d-a97f-b0ffd761cfbf.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
